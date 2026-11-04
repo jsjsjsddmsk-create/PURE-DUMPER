@@ -1,0 +1,12 @@
+{
+  "name": "pure-dumper-html-v24",
+  "version": "24.0.1",
+  "private": true,
+  "description": "Public website resource inspector",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
