@@ -1,0 +1,12 @@
+{
+  "name": "pure-dumper-html-v24",
+  "version": "24.1.0",
+  "private": true,
+  "description": "Original PURE DUMPER V24 interface with enhanced static source checks",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
